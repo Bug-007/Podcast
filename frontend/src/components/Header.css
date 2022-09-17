@@ -1,0 +1,11 @@
+.btnx{
+    cursor: pointer;
+    outline: none;
+    margin: 12px ;
+    padding: 7px 21px;
+    border-radius: 10px;
+}
+.navbar-nav li:hover{
+background-color: #9c90ae97;
+border-radius: 7px;
+}

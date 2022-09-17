@@ -1,0 +1,28 @@
+#head {
+  padding: 6% 0;
+  background: linear-gradient(to bottom, #000000ac, #000000),
+    url(https://image.shutterstock.com/image-vector/isometric-podcast-horizontal-banner-modern-260nw-1348081211.jpg);
+ 
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  transition-duration: 1s;
+}
+#list{
+  /* background-image: url( https://jjlyonsmarketing-18a33.kxcdn.com/wp-content/uploads/2020/10/Pink-Podcast.png  ); */
+  background-color: #b9b6d5;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}
+#carrd{
+  transition-duration: 300ms;
+}
+#carrd:hover{
+  transform: translateY(-20px);
+  box-shadow: 1px 5px 5px 3px rgba(0, 0, 0, 0.137);
+}
+.text-center{
+  text-align: center;
+  justify-content: center;
+}
